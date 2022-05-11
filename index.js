@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
     var b= 2;
     
     var c = a+b;
-    
+     
   res.send('Hello World!')
 })
 
